@@ -1,0 +1,7 @@
+@media (max-width:767px){
+	
+	.user-box img{
+		height: 200px
+	}
+	.about-info h2{margin-top: 30px }
+}
